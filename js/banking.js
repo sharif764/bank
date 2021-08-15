@@ -42,4 +42,4 @@ withDrawTotal.innerText = newWithdrawTotal;
    balance.innerText = newBalanceTotal;
 // cleat withdraw input 
 withdrawInput.value = '';
-})
+});
